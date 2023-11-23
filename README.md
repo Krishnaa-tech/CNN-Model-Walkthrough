@@ -1,4 +1,9 @@
 # Deep-Learning
+
+### MODEL ARCHITECTURE
+![model_architecture](model_architecture.png)
+
+
 ## Original Model
 ![Original Model](optimize_plot.png)
 ## Kernel_padding_lr Changed Model
